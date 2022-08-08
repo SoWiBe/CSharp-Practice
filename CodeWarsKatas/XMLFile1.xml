@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Products>
+    <Product Name="West Side Story" Price="9.99" SupplierId="1"/>
+    <Product Name="West Side Story" Price="9.99" SupplierId="1"/>
+    <Product Name="West Side Story" Price="9.99" SupplierId="1"/>
+  </Products>
+  <Suppliers>
+    <Supplier Name="Solely Sondheim" SupplierID="1"/>
+    <Supplier Name="Solely Sondheim" SupplierID="1"/>
+    <Supplier Name="Solely Sondheim" SupplierID="1"/>
+  </Suppliers>
+</Data>
